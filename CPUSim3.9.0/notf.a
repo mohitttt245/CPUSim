@@ -1,0 +1,6 @@
+START:
+INP
+NOT
+OUT
+HLT
+NUM: .data 1 0
